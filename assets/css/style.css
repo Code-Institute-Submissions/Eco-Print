@@ -11,9 +11,7 @@
 #background {
     /* image used */
     background: url("../images/background.svg");
-    /* Full height */
     height: 2560px;
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,6 +59,47 @@ list-style-type: none;
     #section-1 {
         width: 100%;
         height: 800px;
+        text-align: center;
+    }
+
+    #leaflets {
+        display:inline-block;
+        width:17%;
+        height:350px;
+        margin: 0 10px;
+        border: 1px solid #3a3a3a;
+    }
+
+    #business-cards {
+        display:inline-block;
+        width:17%;
+        height:350px;
+        margin: 0 10px;
+        border: 1px solid #3a3a3a;
+    }
+
+    #posters {
+        display:inline-block;
+        width:17%;
+        height:350px;
+        margin: 0 10px;
+        border: 1px solid #3a3a3a;
+    }
+
+    #stickers {
+        display:inline-block;
+        width:17%;
+        height:350px;
+        margin: 0 10px;
+        border: 1px solid #3a3a3a;
+    }
+
+    #custom {
+        display:inline-block;
+        width:17%;
+        height:350px;
+        margin: 0 10px;
+        border: 1px solid #3a3a3a;
     }
 
     /* Upper Section 1 */
