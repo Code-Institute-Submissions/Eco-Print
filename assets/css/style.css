@@ -1,8 +1,12 @@
+/* Remove page margin and padding */
+
 * {
     margin: 0;
     padding:0;
     border: none;
 }
+
+/* Background */
 
 #background {
     /* image used */
@@ -15,15 +19,27 @@
     background-size: cover;
 }
 
+/* Header */
+
+#header {
+    height:200px;
+}
+
+/* Logo */
+
 #logo {
     float: left;
 }
+
+/* Top menu - Top Nav */
 
 #top-nav li {
 float:right;
 padding: 0 10px;
 list-style-type: none;
 }
+
+/* Lower menu - Bottom Nav Div */
 
 #nav-2 {
     position: relative;
@@ -32,6 +48,7 @@ list-style-type: none;
     height: 20px;
 }
 
+/* Lower menu - Bottom Nav */
 
 #bottom-nav li {
     float:right;
@@ -45,6 +62,42 @@ list-style-type: none;
         width: 100%;
         height: 800px;
     }
+
+    /* Upper Section 1 */
+
+    #upper-section-one {
+        width:100%;
+        Height:400px;
+    }
+
+    /* Lower Section 1 */
+
+    #lower-section-one {
+        width:100%;
+        Height:400px;
+    }
+
+    /* Upper Section 2 */
+
+    #upper-section-two {
+        width:100%;
+        Height:400px;
+    }
+    
+    /* Lower Section 2 */
+    
+     #lower-section-two {
+        width:100%;
+        Height:400px;
+    }
+
+    /* Lower Section 3 */
+    
+    #lower-section-three {
+        width:100%;
+        Height:800px;
+    }
+
 
      /* Section 2 */
 
@@ -60,7 +113,39 @@ list-style-type: none;
         height: 800px;
     }
 
+    /* Footer */
+
     #footer {
         width:100%;
         height:200px;
+        text-align: center;
     }
+
+    /* Footer Column 1 */
+
+    #footer1 {
+        display:inline-block;
+        width:24%;
+    }
+
+    /* Footer Column 2 */
+
+    #footer2 {
+        display: inline-block;
+        width:24%;
+    }
+
+    /* Footer Column 3 */
+
+    #footer3 {
+        display: inline-block;
+        width:24%;
+    }
+
+    /* Footer Column 4 */
+
+    #footer4 {
+        display: inline-block;
+        width:24%;
+    }
+
