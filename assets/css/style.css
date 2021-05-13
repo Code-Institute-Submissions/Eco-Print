@@ -109,6 +109,13 @@ list-style-type: none;
         Height:400px;
     }
 
+    .upper-text {
+        float:left;
+        text-align: left;
+        margin-left: 100px;
+        margin-top:75px;
+    }
+
     /* Lower Section 1 */
 
     #lower-section-one {
