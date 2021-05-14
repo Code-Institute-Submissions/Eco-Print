@@ -10,8 +10,8 @@
 
 #background {
     /* image used */
-    background: url("../images/background.svg");
-    height: 2560px;
+    background: url("../images/background-eco.svg");
+    height: 2800px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,8 +33,9 @@
 
 #top-nav li {
 float:right;
-padding: 0 10px;
+padding: 10px 10px;
 list-style-type: none;
+border: 1px solid #3a3a3a;
 }
 
 /* Lower menu - Bottom Nav Div */
@@ -67,7 +68,8 @@ list-style-type: none;
         width:17%;
         height:350px;
         margin: 0 10px;
-        border: 1px solid #3a3a3a;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     #business-cards {
@@ -75,7 +77,8 @@ list-style-type: none;
         width:17%;
         height:350px;
         margin: 0 10px;
-        border: 1px solid #3a3a3a;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     #posters {
@@ -83,7 +86,8 @@ list-style-type: none;
         width:17%;
         height:350px;
         margin: 0 10px;
-        border: 1px solid #3a3a3a;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     #stickers {
@@ -91,7 +95,8 @@ list-style-type: none;
         width:17%;
         height:350px;
         margin: 0 10px;
-        border: 1px solid #3a3a3a;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     #custom {
@@ -99,7 +104,8 @@ list-style-type: none;
         width:17%;
         height:350px;
         margin: 0 10px;
-        border: 1px solid #3a3a3a;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     /* Upper Section 1 */
@@ -141,7 +147,7 @@ list-style-type: none;
 
      #section-2 {
         width: 100%;
-        height: 800px;
+        height: 600px;
         margin-top: 100px;
     }
 
@@ -191,8 +197,9 @@ list-style-type: none;
 
     #footer {
         width:100%;
-        height:200px;
+        height:300px;
         text-align: center;
+        background: rgba(255,255,255,0.60);
     }
 
     /* Footer Column 1 */
@@ -200,6 +207,8 @@ list-style-type: none;
     #footer1 {
         display:inline-block;
         width:24%;
+        height:250px;
+        border: 1px solid #3a3a3a;
     }
 
     /* Footer Column 2 */
@@ -207,6 +216,8 @@ list-style-type: none;
     #footer2 {
         display: inline-block;
         width:24%;
+        height:250px;
+        border: 1px solid #3a3a3a;
     }
 
     /* Footer Column 3 */
@@ -214,6 +225,8 @@ list-style-type: none;
     #footer3 {
         display: inline-block;
         width:24%;
+        height:250px;
+        border: 1px solid #3a3a3a;
     }
 
     /* Footer Column 4 */
@@ -221,5 +234,7 @@ list-style-type: none;
     #footer4 {
         display: inline-block;
         width:24%;
+        height:250px;
+        border: 1px solid #3a3a3a;
     }
 
