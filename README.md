@@ -49,7 +49,7 @@ Credits:
 
 -Content-
 
-
+Section 3 Facts - https://www.shredit.co.uk/en-gb/blog/sustainability/how-does-recycling-paper-help-the-environment#:~:text=Recycling%20paper%20helps%20to%20reduce,smog%20(and%20ill%20health).
 
 
 

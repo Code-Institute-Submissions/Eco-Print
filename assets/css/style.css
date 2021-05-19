@@ -74,6 +74,7 @@ list-style-type: none;
     margin: 0 10px;
     list-style-type: none;
     }
+    
 
     /* Section 1 */
 
@@ -343,3 +344,12 @@ list-style-type: none;
         border: 1px solid #3a3a3a;
     }
 
+    /* Links */
+
+    a {
+        color: #3a3a3a;
+    }
+
+    .active {
+        text-decoration: underline;
+    }
