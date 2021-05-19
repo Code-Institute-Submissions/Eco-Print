@@ -353,3 +353,19 @@ list-style-type: none;
     .active {
         text-decoration: underline;
     }
+
+    /* Pages */
+
+    #pages-background {
+        background: url("../images/background-eco-print.svg") no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 1600px;
+    }
+
+    /* About Page */
+
+    #about-div {
+        height: 1249px;
+    }
+
