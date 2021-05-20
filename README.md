@@ -28,12 +28,19 @@ This section will allow the user to easily navigate from page to page across all
 ![Nav Bar Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/nav-screenshot.png)
 
 #### -Section 1-
+The first Section displays a simple what Eco Print does and how quick Eco Print does it in the upper half. 
+The bottom half shows the basic products Eco Print sells and display them in a paper like div in tune with the theme.
+
 ![Section 1 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-one-screenshot.png)
 
 #### -Section 2-
+The second section is a basic run down of how the website operates to show the user how easy it is and guide them towards wanting to use the service.
+
 ![Section 2 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-two-screenshot.png)
 
 #### -Section 3-
+The third section is to explain what Eco print does and why, this in turn gives the user an incentive to use this service over other companys for the convenience and environmental benefits.
+
 ![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-three-screenshot.png)
 
 #### -The Footer-
