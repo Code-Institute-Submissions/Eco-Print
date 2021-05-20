@@ -15,7 +15,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ## -Existing Features-
 
-### -Section 1-
+### -Section 1-
 
 ### -Section 2-
 
@@ -60,6 +60,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 ### -Images-
 
 [Flyer vector-art](https://www.vecteezy.com/vector-art/1893315-creative-modern-business-marketing-advertising-flyer)
+![Flyer Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/flyer.svg)
 
 [Font Awesome 5](https://fontawesome.com/icons/leaf?style=solid)
 
