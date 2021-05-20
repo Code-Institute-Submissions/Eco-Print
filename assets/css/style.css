@@ -74,6 +74,10 @@ list-style-type: none;
     margin: 0 10px;
     list-style-type: none;
     }
+
+    #bottom-nav li a {
+        text-decoration: none;
+    }
     
 
     /* Section 1 */

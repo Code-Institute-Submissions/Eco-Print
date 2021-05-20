@@ -8,20 +8,35 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## -Features-
+## -Design-
 
+Color - The Color scheme was used to convince the user into believing this company is th ECO friendly printing service it preaches, it keeps up the enviromental leaf green along with clean charcoal grey lines and text. The opaque white divs with box shadow keeps up the "paper like" appearance.
+
+Typography - The Font used in this project is called "Lobster" from Google Fonts with a fall back of "sans-serif".
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Existing Features-
 
-### -Section 1-
+### Index/Home
 
-### -Section 2-
+#### Nav Bar
+The Nav consists of 2 _Unordered Lists_ the top being more information and existing user based and the bottom your standard Navigation between pages.
 
-### -Section 3-
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button, This is because it is featured across all pages.
 
-### -The Footer-
+![Nav Bar Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/nav-screenshot.png)
+
+#### -Section 1-
+![Section 1 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-one-screenshot.png)
+
+#### -Section 2-
+![Section 2 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-two-screenshot.png)
+
+#### -Section 3-
+![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-three-screenshot.png)
+
+#### -The Footer-
 
 ---------------------------------------------------------------------------------------------------------------------
 ## - Future Features-
@@ -42,8 +57,16 @@ Add the ability to choose a design and customize it for checkout.
 ### -Validator Testing-
 
 [HTML - W3C Validator](https://validator.w3.org/)
-
 [CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+
+#### Index Page
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
+
+#### Contact Page
+
+
+#### About Page
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
