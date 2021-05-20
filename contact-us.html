@@ -8,14 +8,14 @@
     <title>Eco Print</title>
 </head>
 <body>
-    <div id="pages-background">
+    <div id="contact-background">
         <header id="header">
             <h1 id="logo">Eco Print <span id="leaf"><i class="fas fa-leaf"></i></span></h1>
             <nav>
                 <ul id="top-nav">
                     <li>Track Your Order</li>
                     <li>Customer Login</li>
-                    <li>Tel: 0777777777</li>
+                    <li>Tel: 07777777777</li>
                 </ul>
             </nav>
             <div id="nav-2">
@@ -26,9 +26,31 @@
                 </ul>
             </div>
         </header>
-        <section>
-            <div id="about-div">
+        <section class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                <h2>Make A Enquiry</h2>
+                <label for="fname">First Name</label>
+                <input class="text-input" id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name</label>
+                <input class="text-input" id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address</label>
+                <input class="text-input" type="email" id="email" name="email_address" required>
+                
+                <label for="tel">Phone Number</label>
+                <input class="text-input" type="tel" id="tel" name="tel" required>
+                
+                <input class="join-button" type="submit" value="Request Callback">
 
+                    <p id="form-p">We will get back to you to place an order or answer any questions you have.</p>
+
+            </form>
+            <div id="contact-right">
+                <h2>Alternatively....</h2>
+                <br>
+                <p>Call us on 07777777777</p>
+                <p>Email us at: support@ecoprint.co.uk</p>
             </div>
         </section>
         <footer>
