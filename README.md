@@ -63,15 +63,19 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 ![Flyer Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/flyer.svg)
 
 [Font Awesome 5](https://fontawesome.com/icons/leaf?style=solid)
+![Font Awesome](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/leaf-solid.svg)
 
 [Planet earth image - Photo by Lauris Rozentāls from Pexels](https://www.pexels.com/photo/planet-earth-first-poster-on-a-concrete-post-3302183/)
+![Planet Earth First Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/planet-earth-first.jpg)
 
 [Sizes image by Sara](https://www.stockvault.net/photo/276288/set-of-outlined-notes)
+![Paper Sizes Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/sizes.svg)
 
 [Customizr image by Jack Moreh](https://www.stockvault.net/photo/178241/person-studying-and-learning-knowledge-concept)
+![Customizr Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/customize.jpg)
 
 [Order image by Jack Moreh](https://www.stockvault.net/photo/215072/fast-growing-business-with-rocket-and-computer-project-start-up#)
-
+![OrderImage](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/order.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------
 
