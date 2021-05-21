@@ -346,8 +346,26 @@ list-style-type: none;
     }
     /* About Page */
 
+    #about-background {
+        background: url("../images/background-eco-print.svg") no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 1327px;
+    }
+
     #about-div {
-        height: 1249px;
+        height: 1000px;
+        text-align: center;
+    }
+
+    #about-div-main {
+        display: inline-block;
+        width: 75%;
+        height: 550px;
+        padding:50px;
+        margin-top: 175px;
+        background: rgba(255,255,255,0.60);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     /* Contact Us Page */
