@@ -440,3 +440,64 @@ padding-top: 20px;
     background-size: cover;
     height: 1225px;
 }
+
+/* Max width 1200px wide and below  */
+@media screen and (max-width: 1200px) {
+
+/* Home section 3 text */
+
+#text-text-box {
+    font-size: 0.9rem;
+    list-style-position: inside;
+    display: inline-block;
+    color: #0F7C5D;
+    font-weight: bold;
+    margin: 30px 30px 30px 30px;
+    
+}
+}
+
+/* Max width 900px wide and below  */
+@media screen and (max-width: 900px) {
+
+/* Home section 3 text */
+#text-text-box {
+    font-size: 0.8rem;
+    list-style-position: inside;
+    display: inline-block;
+    color: #0F7C5D;
+    font-weight: bold;
+    margin: 30px 30px 30px 30px;
+    
+}
+}
+
+/* Max width 700px wide and below  */
+@media screen and (max-width: 700px) {
+
+    /* Home section 3 text */
+    #text-text-box {
+        font-size: 0.7rem;
+        list-style-position: inside;
+        display: inline-block;
+        color: #0F7C5D;
+        font-weight: bold;
+        margin: 30px 30px 30px 30px;
+        
+    }
+    }
+
+    /* Max width 560px wide and below  */
+@media screen and (max-width: 560px) {
+
+    /* Home section 3 text */
+    #text-text-box {
+        font-size: 0.65rem;
+        list-style-position: inside;
+        display: inline-block;
+        color: #0F7C5D;
+        font-weight: bold;
+        margin: 30px 30px 30px 30px;
+        
+    }
+    }
