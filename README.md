@@ -16,6 +16,27 @@ Typography - The Font used in this project is called "Lobster" from Google Fonts
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## -Business Goals-
+
+* To show the user how Eco Print is a better eco friendly company and why they should use these services.
+* Provide Further information about why Eco Print uses eco friendly methods and educate the user.
+* Gain custom at the same time as saving the planet, providing users with a talking point to other potential users.
+
+## -Target Audience-
+
+* Users looking to buy paper/card products ie leaflets and business cards.
+* Users looking to share ideas on how to recycle and save our planet.
+
+## -User Goals-
+
+* Purchase Products.
+* Learn how companys like Eco Print are helping to reduce waste and save our planet.
+* Be inspired to research ways to protect our planet.
+
+Not all users who come across Eco Print will be looking to purchase but maybe looking to further educate themselves. For this reason Eco Print provides links to facts and websites to further investigate.
+
+---------------------------------------------------------------------------------------------------------------------
+
 ## -Existing Features-
 
 ### Index/Home
