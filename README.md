@@ -136,7 +136,7 @@ I would liked to have spent a bit more time styling some of the items that was s
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. Click Save and the page will automatically refresh.
-6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section. Alternatively click this [Link](https://techcentreuk.github.io/Printing-Company/)
 
 
 ---------------------------------------------------------------------------------------------------------------------
