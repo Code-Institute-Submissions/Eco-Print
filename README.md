@@ -3,7 +3,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ---------------------------------------------------------------------------------------------------------------------
 
-###IMAGE GOES HERE
+###RESPONSIVE VIEW IMAGE GOES HERE
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -69,6 +69,16 @@ The footer displays social icons which on button click will take you to Eco Prin
 
 ![Footer Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/footer.png)
 
+### -Contact Us-
+The Contact Us page show off a simple form for the user to request a call back, I did not want too much information filling this page as its ment to be a simple contact page.
+
+![Contact Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/contact-screenshot.png)
+
+### -About Us-
+The About Us page gives the user a little bit about who Eco Print are what they do and why they do it.
+
+![About Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/about-screenshot.png)
+
 ---------------------------------------------------------------------------------------------------------------------
 ## - Future Features-
 
@@ -108,11 +118,20 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 
 Pages are missing and yet to have links added to the correct places, this is both a time and knowledge restriction as i am yet to learn javascript and more to add the features in i would like for example order tracking, login and customization page.
 
+I would liked to have spent a bit more time styling some of the items that was set to visibility hidden to suit the responsive design when it could have been styled differently and had been kept in view.
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Deployment-
+### -Git Hub Pages-
 
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (NOT at the top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 
 ---------------------------------------------------------------------------------------------------------------------
