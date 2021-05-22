@@ -105,6 +105,7 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 ### -Validator Testing-
 
 [HTML - W3C Validator](https://validator.w3.org/)
+\
 [CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 #### Index Page
