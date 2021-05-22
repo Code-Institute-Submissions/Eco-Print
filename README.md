@@ -3,7 +3,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ---------------------------------------------------------------------------------------------------------------------
 
-###RESPONSIVE VIEW IMAGE GOES HERE
+![Responsive Website](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/responsive.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------
