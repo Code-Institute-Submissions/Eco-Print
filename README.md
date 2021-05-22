@@ -73,10 +73,10 @@ Add the ability to choose a design and customize it for checkout.
 ![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
 
 #### Contact Page
-
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
 
 #### About Page
-
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 
