@@ -19,7 +19,7 @@ font-family: "Nova Round", sans-serif;
 #background {
     /* image used */
     background: url("../images/background-eco-print.svg");
-    height: 3200px;
+    min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -301,15 +301,6 @@ list-style-type: none;
         
     }
 
-    /* Footer */
-
-    #footer1 {
-        display:inline-block;
-        width:24%;
-        height:250px;
-        border: 1px solid #3a3a3a;
-    }
-
     .social-networks {
         text-align: center;
         background: rgba(255,255,255,0.60);
@@ -320,7 +311,7 @@ list-style-type: none;
     }
     
     .social-networks i {
-        font-size: 160%;
+        font-size: 1.6rem;
         margin: 1%;
         padding: 5%;
         color: #3a3a3a;
@@ -342,16 +333,9 @@ list-style-type: none;
         background: url("../images/background-eco-print.svg") no-repeat;
         background-position: center;
         background-size: cover;
-        height: 1575px;
+        min-height: 100vh;
     }
     /* About Page */
-
-    #about-background {
-        background: url("../images/background-eco-print.svg") no-repeat;
-        background-position: center;
-        background-size: cover;
-        height: 1327px;
-    }
 
     #about-div {
         height: 1000px;
@@ -434,11 +418,16 @@ padding-top: 20px;
     margin: 350px 400px 0px 0px;
 }
 
-#contact-background {
-    background: url("../images/background-eco-print.svg") no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 1225px;
+/* Max width 1398px wide and below  */
+@media screen and (max-width: 1398px) {
+#contact-right {
+    visibility: hidden;
+}
+
+#about-div-main > p {
+    font-size: 1rem;
+}
+
 }
 
 /* Max width 1200px wide and below  */
@@ -455,6 +444,19 @@ padding-top: 20px;
     margin: 30px 30px 30px 30px;
     
 }
+
+/* Section 1 */
+#section-1 {
+    height: 300px;
+}
+
+/* Section 1 bottom */
+#lower-section-one {
+    visibility: hidden;
+    height: 0;
+}
+
+
 }
 
 /* Max width 900px wide and below  */
@@ -470,7 +472,60 @@ padding-top: 20px;
     margin: 30px 30px 30px 30px;
     
 }
+
+.how-h3 {
+    font-size: 0.8rem;
 }
+
+}
+
+/* Max width 850px wide and below  */
+@media screen and (max-width: 850px) {
+
+    /* Section 1 */
+
+    .upper-text {
+        margin-left: 50px !important;
+    }
+
+    #about-div-main > p {
+        font-size: 0.9rem;
+    }
+
+}
+
+/* Max width 750px wide and below  */
+@media screen and (max-width: 750px) {
+
+    /* Header and Nav */
+
+    #top-nav {
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #bottom-nav {
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #header {
+        height:200px;
+    }
+
+
+    #about-div-main > p {
+        font-size: 0.8rem;
+    }
+
+}
+
 
 /* Max width 700px wide and below  */
 @media screen and (max-width: 700px) {
@@ -485,10 +540,37 @@ padding-top: 20px;
         margin: 30px 30px 30px 30px;
         
     }
+
     }
 
     /* Max width 560px wide and below  */
 @media screen and (max-width: 560px) {
+
+    /* Nav font sizing */
+
+    #top-nav > li {
+        font-size: 0.8rem;
+    }
+
+    #bottom-nav {
+        font-size: 0.8rem;
+    }
+
+    #about-div-main > p {
+        font-size: 0.7rem;
+    }
+
+    /* Section 1 */
+
+    .upper-text {
+        margin-left: 20px !important;
+    }
+
+    /* Section 2 */
+
+    #section-2 {
+        height: 500px !important;
+    }
 
     /* Home section 3 text */
     #text-text-box {
@@ -499,5 +581,20 @@ padding-top: 20px;
         font-weight: bold;
         margin: 30px 30px 30px 30px;
         
+    }
+
+    }
+    
+       /* Max width 500px wide and below  */
+@media screen and (max-width: 500px) {
+
+    /* Nav bar font sizing */
+
+    #top-nav > li {
+        font-size: 0.7rem;
+    }
+
+    #bottom-nav {
+        font-size: 0.7rem;
     }
     }
