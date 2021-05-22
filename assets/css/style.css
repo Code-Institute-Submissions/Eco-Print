@@ -557,6 +557,24 @@ a {
   #bottom-nav {
     font-size: 0.7rem;
   }
+
+  #section-3-image {
+    width: 48%;
+  }
+  
+  #section-3-text {
+    width: 48%;
+  }
+
+}
+
+/* Max width 499px wide and below  */
+@media screen and (max-width: 499px) {
+
+#text-text-box {
+  font-size: 0.55rem;
+}
+
 }
 
 /* Max width 450px wide and below  */
@@ -582,5 +600,34 @@ a {
   #bottom-nav {
     font-size: 0.5rem;
   }
+
+}
+
+/* Max width 370px wide and below  */
+@media screen and (max-width: 370px) {
+
+#top-nav {
+  visibility: hidden;
+  height: 0px;
+}
+
+#bottom-nav {
+  font-size: 0.7rem;
+}
+
+#section-3-image {
+  height: 0px;
+  visibility: hidden;
+}
+
+#section-3-text {
+  width: 100%;
+  background-color: #fff;
+}
+
+#text-text-box {
+  font-size: 0.8rem;
+}
+
 
 }
