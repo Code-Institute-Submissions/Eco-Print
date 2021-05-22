@@ -90,6 +90,10 @@ Add commerce integration for users to checkout items.
 
 Add the ability to choose a design and customize it for checkout.
 
+Add Image work instead of placeholder image for flyer.
+
+Add Links to different paper types that leads to upload and customize page.
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
