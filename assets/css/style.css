@@ -359,6 +359,7 @@ list-style-type: none;
     }
 
     #about-div-main {
+        font-size: 1.2rem;
         display: inline-block;
         width: 75%;
         height: 550px;
