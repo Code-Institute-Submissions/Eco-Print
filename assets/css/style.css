@@ -558,3 +558,29 @@ a {
     font-size: 0.7rem;
   }
 }
+
+/* Max width 450px wide and below  */
+@media screen and (max-width: 450px) {
+
+  #top-nav {
+    clear: left;
+    float: left;
+    line-height: 25px;
+    text-align: left;
+  }
+
+  #bottom-nav {
+    clear: left;
+    float: left;
+    line-height: 25px;
+  }
+
+  #top-nav>li {
+    font-size: 0.5rem;
+  }
+
+  #bottom-nav {
+    font-size: 0.5rem;
+  }
+
+}
