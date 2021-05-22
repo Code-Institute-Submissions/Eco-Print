@@ -10,7 +10,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ## -Design-
 
-Color - The Color scheme was used to convince the user into believing this company is th ECO friendly printing service it preaches, it keeps up the enviromental leaf green along with clean charcoal grey lines and text. The opaque white divs with box shadow keeps up the "paper like" appearance.
+Color - The Color scheme was used to convince the user into believing this company is the ECO friendly printing service it preaches, it keeps up the enviromental leaf green along with clean charcoal grey lines and text. The opaque white divs with box shadow keeps up the "paper like" appearance.
 
 Typography - The Font used in this project is called "Lobster" from Google Fonts with a fall back of "sans-serif".
 
@@ -85,6 +85,9 @@ Add the ability to choose a design and customize it for checkout.
 
 ## -Testing-
 
+All pages have been tested across all screen sizes for a responsive experience and web pages have been Styled accordingly.
+During this time i realised i made some silly mistakes mainly with sizing and had to go back through and change some size values to work correctly.
+
 ### -Validator Testing-
 
 [HTML - W3C Validator](https://validator.w3.org/)
@@ -103,6 +106,7 @@ Add the ability to choose a design and customize it for checkout.
 
 ## -Unfixed Bugs-
 
+Pages are missing and yet to have links added to the correct places, this is both a time and knowledge restriction as i am yet to learn javascript and more to add the features in i would like for example order tracking, login and customization page.
 
 
 ---------------------------------------------------------------------------------------------------------------------
