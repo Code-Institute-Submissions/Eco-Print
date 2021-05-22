@@ -456,6 +456,9 @@ padding-top: 20px;
     height: 0;
 }
 
+#works {
+    text-shadow: none;
+}
 
 }
 

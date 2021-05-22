@@ -44,6 +44,9 @@ The third section is to explain what Eco print does and why, this in turn gives 
 ![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-three-screenshot.png)
 
 #### -The Footer-
+The footer displays social icons which on button click will take you to Eco Print social account page.
+
+![Footer Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/footer.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 ## - Future Features-
@@ -95,6 +98,8 @@ Add the ability to choose a design and customize it for checkout.
 
 [Section 3 Facts](https://www.shredit.co.uk/en-gb/blog/sustainability/how-does-recycling-paper-help-the-environment#:~:text=Recycling%20paper%20helps%20to%20reduce,smog%20(and%20ill%20health).)
 
+
+[About Page Content](https://freeans.wordpress.com/2011/08/15/the-effects-of-not-recycling-paper-on-our-environment/)
 
 
 ## -Media-
