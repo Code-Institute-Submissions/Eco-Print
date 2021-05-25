@@ -117,6 +117,15 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 #### About Page
 ![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
 
+### Lighthouse - Dev Tools
+![Lighthouse](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/lighthouse.png)
+\
+I used lighthouse in dev tools to test the website in many ways, for exmaple i had to test my text colors contrast and adjust accordingly.
+As you can see by the above screenshot i used this to improve the websites overall performance.
+
+### Chrome Dev Tools
+Chrome Dev Tools played a huge role in my testing on a day to day basis, i was able to edit my css in real time to confirm the code im writing had to correct output as i was coding. It mostly helped when Styling for responsive mode.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Unfixed Bugs-
