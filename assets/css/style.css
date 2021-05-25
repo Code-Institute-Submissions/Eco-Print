@@ -535,6 +535,33 @@ a {
     height: 500px !important;
   }
 
+  #how-left {
+    height:315px;
+  }
+
+  #how-center {
+    height: 315px;
+  }
+
+  #how-right {
+    height: 315px;
+  }
+
+  #size-img {
+    height:200px;
+    margin-top:30px;
+  }
+
+  #customize-img {
+    height:200px;
+    margin-top:30px;
+  }
+
+  #order-img {
+    height:200px;
+    margin-top:30px;
+  }
+
   /* Home section 3 text */
   #text-text-box {
     font-size: 0.65rem;
@@ -549,7 +576,7 @@ a {
     width: 100%;
     height: 400px;
     margin: auto;
-   
+  
   }
   
   #section-3-text {
@@ -561,7 +588,6 @@ a {
   #text-text-box {
     font-size: 0.9rem;
   }
-
 }
 
 /* Max width 500px wide and below  */
@@ -580,9 +606,15 @@ a {
 /* Max width 450px wide and below  */
 @media screen and (max-width: 450px) {
 
+  #header {
+    height: 250px;
+  }
+
   #top-nav {
     clear: left;
     float: left;
+    margin-top: 10px;
+    margin-bottom: 0;
     line-height: 25px;
     text-align: left;
   }
@@ -594,11 +626,17 @@ a {
   }
 
   #top-nav>li {
-    font-size: 0.5rem;
+    float:none;
+    padding: 0;
+    
   }
 
   #bottom-nav {
-    font-size: 0.5rem;
+    float:left;
+  }
+
+  #bottom-nav>li {
+    padding: 0;
   }
 
   #text-text-box {
@@ -608,20 +646,10 @@ a {
   .how-h3 {
     font-size: 0.8rem;
   }
-
 }
 
 /* Max width 370px wide and below  */
 @media screen and (max-width: 370px) {
-
-#top-nav {
-  visibility: hidden;
-  height: 0px;
-}
-
-#bottom-nav {
-  font-size: 0.7rem;
-}
 
 #section-3-text {
   width: 100%;
@@ -631,6 +659,24 @@ a {
 #text-text-box {
   font-size: 0.8rem;
 }
+}
 
+/* Max width 320px wide and below  */
+@media screen and (max-width: 320px) {
 
+  #upper-section-two {
+    height: 650px;
+  }
+
+  #how-it-works {
+    height: 500px;
+  }
+
+#section-3-text {
+  height: 530px;
+}
+
+#text-text-box {
+  margin: 20px;
+}
 }
