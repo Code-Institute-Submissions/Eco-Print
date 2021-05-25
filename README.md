@@ -150,6 +150,8 @@ I would liked to have spent a bit more time styling some of the items that was s
 
 [About Page Content](https://freeans.wordpress.com/2011/08/15/the-effects-of-not-recycling-paper-on-our-environment/)
 
+[Favicon](https://favicon.io/emoji-favicons/recycling-symbol)
+
 
 ## -Media-
 
