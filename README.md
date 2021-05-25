@@ -120,7 +120,7 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 ### Lighthouse - Dev Tools
 ![Lighthouse](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/lighthouse.png)
 \
-I used lighthouse in dev tools to test the website in many ways, for exmaple i had to test my text colors contrast and adjust accordingly.
+I used lighthouse in dev tools to test the website in many ways, for example i had to test my text colors contrast and adjust accordingly.
 As you can see by the above screenshot i used this to improve the websites overall performance.
 
 ### Chrome Dev Tools
