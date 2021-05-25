@@ -646,6 +646,11 @@ a {
   .how-h3 {
     font-size: 0.8rem;
   }
+
+  #about-div-main {
+    padding: 10px;
+    height:700px;
+  }
 }
 
 /* Max width 370px wide and below  */
@@ -658,6 +663,10 @@ a {
 
 #text-text-box {
   font-size: 0.8rem;
+}
+
+#about-div-main {
+  height:750px;
 }
 }
 
@@ -678,5 +687,9 @@ a {
 
 #text-text-box {
   margin: 20px;
+}
+
+#about-div-main {
+  height:800px;
 }
 }
