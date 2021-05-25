@@ -80,7 +80,7 @@ The About Us page gives the user a little bit about who Eco Print are what they 
 ![About Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/about-screenshot.png)
 
 ---------------------------------------------------------------------------------------------------------------------
-## - Future Features-
+## -Future Features-
 
 Add login feature for users to see their orders.
 
@@ -181,6 +181,20 @@ I would liked to have spent a bit more time styling some of the items that was s
 ![OrderImage](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/order.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------
+## -Tools-
+
+[HTML Formatter](https://webformatter.com/html)
+\
+[HTML - W3C Validator](https://validator.w3.org/)
+\
+[CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+\
+[Favicon.io](https://favicon.io/)
+\
+[Vecteezy](https://vecteezy.com)
+\
+[Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
 
 
 
