@@ -14,6 +14,8 @@ Color - The Color scheme was used to convince the user into believing this compa
 
 Typography - The Font used in this project is called "Lobster" from Google Fonts with a fall back of "sans-serif".
 
+Background - I Used Adobe Illustrator to create the background image by simply using the line tool and bending it and filling the color.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Business Goals-
@@ -101,6 +103,7 @@ Add Links to different paper types that leads to upload and customize page.
 
 All pages have been tested across all screen sizes for a responsive experience and web pages have been Styled accordingly.
 During this time i realised i made some silly mistakes mainly with sizing and had to go back through and change some size values to work correctly.
+I did this using W3C validator for HTML and Jigsaw Validator for CSS.
 
 ### -Validator Testing-
 
@@ -123,8 +126,16 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 I used lighthouse in dev tools to test the website in many ways, for example i had to test my text colors contrast and adjust accordingly.
 As you can see by the above screenshot i used this to improve the websites overall performance.
 
-### Chrome Dev Tools
+### Chrome Dev Tools and Responsive Mode
 Chrome Dev Tools played a huge role in my testing on a day to day basis, i was able to edit my css in real time to confirm the code im writing had to correct output as i was coding. It mostly helped when Styling for responsive mode.
+
+### Links
+I tested all links across all pages to make sure they all redirect to the correct pages. I also made sure that for links leadng to external websites i used the target _blank attribute to open a new tab so the user does not lose place on our website.
+
+### Browsers
+I Tested compatibility across browsers by using Safari, Chrome and iOS Safari. As an extra measure i also tested browser compatibilty across more browsers using the plugin [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg).
+
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -138,15 +149,42 @@ I would liked to have spent a bit more time styling some of the items that was s
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Deployment-
+
+### Creating My Website
+To create this project I used the Code Institute Gitpod Full Template by navigating [here](https://github.com/Code-Institute-Org/gitpod-full-template) and clicking the button labelled 'Use this template'.
+
+Next i was directed to the 'create new repository from template page' and entered in my repo name, then clicked create repository from template button.
+
+The commands used for commits throughout the project:
+
+git add filename - This command was used to add files to the staging area before committing.
+git commit -m "commit message explaining the updates" - This command was used to to commit changes to the local repository.
+git push - This command is used to push all committed changes to the GitHub repository.
+
 ### -Git Hub Pages-
 
 1. Log in to GitHub and locate the GitHub Repository
+
 2. At the top of the Repository (NOT at the top of page), locate the "Settings" Button on the menu.
+
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
 5. Click Save and the page will automatically refresh.
+
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section. Alternatively click this [Link](https://techcentreuk.github.io/Printing-Company/)
 
+### Forking
+Forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. - This is the definition from Github Docs.
+
+1. Navigate to the GitHub Repository you want to fork.
+
+2. On the top right of the page under the header, click the fork button.
+
+3. Fork
+
+4. This will create a duplicate of the full project in your GitHub Repository.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -203,6 +241,7 @@ I would liked to have spent a bit more time styling some of the items that was s
 [Vecteezy](https://vecteezy.com)
 \
 [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
+\
+[Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html?mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjw47eFBhA9EiwAy8kzNMN3BI7rC2_ZJd5Hzh5-6NTzScGoxZNYikkQwJS_9DqB3WJj6CyFrBoCTq8QAvD_BwE:G:s&s_kwcid=AL!3085!3!520938467018!e!!g!!illustrator!1426208085!56320331672&gclid=CjwKCAjw47eFBhA9EiwAy8kzNMN3BI7rC2_ZJd5Hzh5-6NTzScGoxZNYikkQwJS_9DqB3WJj6CyFrBoCTq8QAvD_BwE)
 
 ---------------------------------------------------------------------------------------------------------------------
