@@ -3,7 +3,7 @@ The planets leading eco freindly supplier with guaranteed next day printing in t
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![Responsive Website](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/responsive.png)
+![Responsive Website](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/responsive.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -46,38 +46,38 @@ The Nav consists of 2 _Unordered Lists_ the top being more information and exist
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button, This is because it is featured across all pages.
 
-![Nav Bar Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/nav-screenshot.png)
+![Nav Bar Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/nav-screenshot.png)
 
 #### -Section 1-
 The first Section displays a simple what Eco Print does and how quick Eco Print does it in the upper half. 
 The bottom half shows the basic products Eco Print sells and display them in a paper like div in tune with the theme.
 
-![Section 1 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-one-screenshot.png)
+![Section 1 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-one-screenshot.png)
 
 #### -Section 2-
 The second section is a basic run down of how the website operates to show the user how easy it is and guide them towards wanting to use the service.
 
-![Section 2 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-two-screenshot.png)
+![Section 2 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-two-screenshot.png)
 
 #### -Section 3-
 The third section is to explain what Eco print does and why, this in turn gives the user an incentive to use this service over other companys for the convenience and environmental benefits.
 
-![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/section-three-screenshot.png)
+![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-three-screenshot.png)
 
 #### -The Footer-
 The footer displays social icons which on button click will take you to Eco Print social account page.
 
-![Footer Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/footer.png)
+![Footer Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/footer.png)
 
 ### -Contact Us-
 The Contact Us page show off a simple form for the user to request a call back, I did not want too much information filling this page as its ment to be a simple contact page.
 
-![Contact Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/contact-screenshot.png)
+![Contact Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/contact-screenshot.png)
 
 ### -About Us-
 The About Us page gives the user a little bit about who Eco Print are what they do and why they do it.
 
-![About Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/about-screenshot.png)
+![About Us Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/about-screenshot.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 ## -Future Features-
@@ -109,16 +109,16 @@ During this time i realised i made some silly mistakes mainly with sizing and ha
 [CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 #### Index Page
-![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/w3c-check.png)
 
 #### Contact Page
-![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/w3c-check.png)
 
 #### About Page
-![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/w3c-check.png)
+![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/w3c-check.png)
 
 ### Lighthouse - Dev Tools
-![Lighthouse](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/lighthouse.png)
+![Lighthouse](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/lighthouse.png)
 \
 I used lighthouse in dev tools to test the website in many ways, for example i had to test my text colors contrast and adjust accordingly.
 As you can see by the above screenshot i used this to improve the websites overall performance.
@@ -167,27 +167,27 @@ I would liked to have spent a bit more time styling some of the items that was s
 ### -Images-
 
 [Flyer vector-art](https://www.vecteezy.com/vector-art/1893315-creative-modern-business-marketing-advertising-flyer)
-![Flyer Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/flyer.svg)
+![Flyer Image](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/flyer.svg)
 
 
 [Font Awesome 5](https://fontawesome.com/icons/leaf?style=solid)
-![Font Awesome](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/leaf-solid.svg)
+![Font Awesome](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/leaf-solid.svg)
 
 
 [Planet earth image - Photo by Lauris Rozentāls from Pexels](https://www.pexels.com/photo/planet-earth-first-poster-on-a-concrete-post-3302183/)
-![Planet Earth First Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/planet-earth-first.jpg)
+![Planet Earth First Image](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/planet-earth-first.jpg)
 
 
 [Sizes image by Sara](https://www.stockvault.net/photo/276288/set-of-outlined-notes)
-![Paper Sizes Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/sizes.svg)
+![Paper Sizes Image](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/sizes.svg)
 
 
 [Customizr image by Jack Moreh](https://www.stockvault.net/photo/178241/person-studying-and-learning-knowledge-concept)
-![Customizr Image](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/customize.jpg)
+![Customizr Image](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/customize.jpg)
 
 
 [Order image by Jack Moreh](https://www.stockvault.net/photo/215072/fast-growing-business-with-rocket-and-computer-project-start-up#)
-![OrderImage](https://github.com/TechCentreUK/Printing-Company/blob/master/assets/images/order.jpg)
+![OrderImage](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/order.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------
 ## -Tools-
@@ -205,9 +205,4 @@ I would liked to have spent a bit more time styling some of the items that was s
 [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 
-
-
-
 ---------------------------------------------------------------------------------------------------------------------
-
-
