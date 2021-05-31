@@ -697,8 +697,8 @@ a {
     }
 }
 
-/* Max width 320px wide and below  */
-@media screen and (max-width: 320px) {
+/* Max width 321px wide and below  */
+@media screen and (max-width: 321px) {
     /* Section 2 */
     #upper-section-two {
         height: 650px;

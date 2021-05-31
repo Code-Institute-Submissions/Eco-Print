@@ -64,9 +64,11 @@ The second section is a basic run down of how the website operates to show the u
 ![Section 2 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-two-screenshot.png)
 
 #### -Section 3-
-The third section is to explain what Eco print does and why, this in turn gives the user an incentive to use this service over other companys for the convenience and environmental benefits.
+The third section is to explain what Eco print does and why, this in turn gives the user an incentive to use this service over other companys for the convenience and environmental benefits. Also in Section 3 is an embedded video from youtube with inclusive user controls and the ability to open in youtube in a new tab.
 
 ![Section 3 Screenshot](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-three-screenshot.png)
+\
+![Section 3 video](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/section-3-video-screenshot.png)
 
 #### -The Footer-
 The footer displays social icons which on button click will take you to Eco Print social account page.
@@ -228,6 +230,10 @@ Forks are used to either propose changes to someone else's project or to use som
 
 [Order image by Jack Moreh](https://www.stockvault.net/photo/215072/fast-growing-business-with-rocket-and-computer-project-start-up#)
 ![OrderImage](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/order.jpg)
+
+### -Videos=
+
+[Recycling Paper Video by Domtar on Youtube](https://www.youtube.com/watch?v=jAqVxsEgWIM&ab_channel=Domtar)
 
 ---------------------------------------------------------------------------------------------------------------------
 ## -Tools-
