@@ -139,7 +139,7 @@ body {
 /* Upper Section 1 */
 #upper-section-one {
     width: 100%;
-    height: 400px;
+    height: 300px;
 }
 
 .upper-text {
@@ -155,14 +155,10 @@ body {
     height: 525px;
 }
 
-#lower-section-one h3 {
-    margin-top: 60px;
-}
-
 /* Upper Section 2 */
 #upper-section-two {
     width: 100%;
-    height: 800px;
+    height: 650px;
 }
 
 /* Lower Section 3 */
@@ -174,8 +170,8 @@ body {
 /* Section 2 */
 #section-2 {
     width: 100%;
-    height: 800px;
-    margin-top: 200px;
+    height: 650px;
+    
 }
 
 #section-2 h2 {
@@ -191,7 +187,7 @@ body {
 #how-it-works {
     text-align: center;
     width: 100%;
-    height: 600px;
+    height: 650px;
     margin: auto;
 }
 
