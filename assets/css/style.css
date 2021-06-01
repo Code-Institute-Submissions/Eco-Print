@@ -293,6 +293,7 @@ body {
 .social-networks {
     text-align: center;
     background: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .social-networks > li {
@@ -306,9 +307,17 @@ body {
     color: #3a3a3a;
 }
 
+.social-networks i:hover {
+    color: #0f7c5d;
+}
+
 /* Links */
 a {
     color: #3a3a3a;
+}
+
+a:hover {
+    color: #0f7c5d;
 }
 
 .active {
