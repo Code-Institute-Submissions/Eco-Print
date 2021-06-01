@@ -14,8 +14,30 @@ Take a Look [Here](https://techcentreuk.github.io/Printing-Company/index.html)
 This Website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML and CSS Modules.
 
 ---------------------------------------------------------------------------------------------------------------------
+## User Experience Design
+
+### First Time Visitor Goals
+
+- To easily understand the main purpose of the site and learn more about the organisation.
+- To be able to easily navigate throughout the site to find content.
+- To view the website and content clearly on my mobile device.
+
+### Returning Customer Goals
+
+- To order products online.
+- To contact the organisation so they can request more information.
+
+### Frequent Visitor Goals
+
+- To order/topup on products.
+- To check to see if there are any new services offered.
+
+
+---------------------------------------------------------------------------------------------------------------------
 
 ## -Design-
+
+All Pages contain a Navigation menu at the top of the Webpage that directs the user to a new Page to allow users to Navigate the site easily. The Nav Menu is repositioned on a Mobile device to make use of space on smaller devices.
 
 Color - The Color scheme was used to convince the user into believing this company is the ECO friendly printing service it preaches, it keeps up the enviromental leaf green along with clean charcoal grey lines and text. The opaque white divs with box shadow keeps up the "paper like" appearance.
 
