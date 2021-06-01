@@ -194,6 +194,20 @@ Forks are used to either propose changes to someone else's project or to use som
 
 4. This will create a duplicate of the full project in your GitHub Repository.
 
+### Clone
+
+1. Navigate to the Github Repository you want to clone.
+
+2. Click the drop down menu labelled "Clone".
+
+3. Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+
+4. Open your developement editor and open a terminal window in a directory of your choice.
+
+5. Use the 'git clone' command in terminal followed by the copied git URL.
+
+6. A clone of the project will be created locally on your local machine.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Credits-
@@ -201,7 +215,6 @@ Forks are used to either propose changes to someone else's project or to use som
 ### -Content-
 
 [Section 3 Facts](https://www.shredit.co.uk/en-gb/blog/sustainability/how-does-recycling-paper-help-the-environment#:~:text=Recycling%20paper%20helps%20to%20reduce,smog%20(and%20ill%20health).)
-
 
 [About Page Content](https://freeans.wordpress.com/2011/08/15/the-effects-of-not-recycling-paper-on-our-environment/)
 
