@@ -7,7 +7,6 @@ Take a Look [Here](https://techcentreuk.github.io/Printing-Company/index.html)
 
 ![Responsive Website](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/responsive.png)
 
-
 ---------------------------------------------------------------------------------------------------------------------
 
 ## -Design-
@@ -213,6 +212,7 @@ Forks are used to either propose changes to someone else's project or to use som
 ## -Credits-
 
 ### -Content-
+The content of this software was created by Clayton File based on ownn thoughts and ideas.
 
 [Section 3 Facts](https://www.shredit.co.uk/en-gb/blog/sustainability/how-does-recycling-paper-help-the-environment#:~:text=Recycling%20paper%20helps%20to%20reduce,smog%20(and%20ill%20health).)
 
@@ -251,6 +251,9 @@ Forks are used to either propose changes to someone else's project or to use som
 ### -Videos=
 
 [Recycling Paper Video by Domtar on Youtube](https://www.youtube.com/watch?v=jAqVxsEgWIM&ab_channel=Domtar)
+
+### Acknowledgment
+I'd like to thank my mentor [Daisy McGirr](https://github.com/Daisy-McG) for her guidance and support throughout my project.
 
 ---------------------------------------------------------------------------------------------------------------------
 ## -Tools-
