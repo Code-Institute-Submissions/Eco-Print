@@ -13,6 +13,8 @@ Take a Look [Here](https://techcentreuk.github.io/Printing-Company/index.html)
 ### Purpose
 This Website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML and CSS Modules.
 
+The target audience for this product is users looking to purchase leaflets and other business print work. The main focus of this companys business model is keeping the business Eco friendly and educating users, therefore this website is aimed at those who care for our planet and ecosystem when buying products.
+
 ---------------------------------------------------------------------------------------------------------------------
 ## User Experience Design
 
