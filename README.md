@@ -8,6 +8,12 @@ Take a Look [Here](https://techcentreuk.github.io/Printing-Company/index.html)
 ![Responsive Website](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/responsive.png)
 
 ---------------------------------------------------------------------------------------------------------------------
+## Milestone Project 1
+
+### Purpose
+This Website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML and CSS Modules.
+
+---------------------------------------------------------------------------------------------------------------------
 
 ## -Design-
 
