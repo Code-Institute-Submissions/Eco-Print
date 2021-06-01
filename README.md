@@ -138,13 +138,27 @@ Add Links to different paper types that leads to upload and customize page.
 
 All pages have been tested across all screen sizes for a responsive experience and web pages have been Styled accordingly.
 During this time i realised i made some silly mistakes mainly with sizing and had to go back through and change some size values to work correctly.
+
+Once testing was complete and i was satosfied with the result i used validators to ensure my code was up to standard,
 I did this using W3C validator for HTML and Jigsaw Validator for CSS.
+
+As this project is static and contains no back-end functionality at this time, the testing performed was on the visual effects and layout of the Website. Testing has been done on at least three web browsers and all screen sizes down to 320px wide.
+
+All nav links direct to the correct html pages as per their names. The Home page is the exception, this one will redirect to index.html.
+
+All links to external websites open in a new browser.
+
+All links show a difference in Color when you hover over the link.
+
+All images are responsive, some have been hidden including their containers on some page sizes also.
+
+The Video is responsive in the fact on smaller size screens it is hidden and so is its parent container, this is not a bug but intentionally done. The video also has user controls and can be opened in youtube externally in a new tab.
 
 ### -Validator Testing-
 
-[HTML - W3C Validator](https://validator.w3.org/)
+[HTML - W3C HTML Validator](https://validator.w3.org/)
 \
-[CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+[CSS - Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 #### Index Page
 ![W3C Check](https://github.com/TechCentreUK/Printing-Company/blob/master/readme_images/w3c-check.png)
