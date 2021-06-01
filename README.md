@@ -287,17 +287,33 @@ I'd like to thank my mentor [Daisy McGirr](https://github.com/Daisy-McG) for her
 ## -Tools-
 
 [HTML Formatter](https://webformatter.com/html)
+Correctly Formatting my HTML
 \
 [HTML - W3C Validator](https://validator.w3.org/)
+Validating my HTML
 \
 [CSS - Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+Validating my CSS
 \
 [Favicon.io](https://favicon.io/)
+To download a favicon
 \
 [Vecteezy](https://vecteezy.com)
+For image work made by others
 \
-[Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse)
+[Chrome Lighthouse and Chrome Developer Tools](https://developers.google.com/web/tools/lighthouse)
+To check website performance
 \
 [Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html?mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjw47eFBhA9EiwAy8kzNMN3BI7rC2_ZJd5Hzh5-6NTzScGoxZNYikkQwJS_9DqB3WJj6CyFrBoCTq8QAvD_BwE:G:s&s_kwcid=AL!3085!3!520938467018!e!!g!!illustrator!1426208085!56320331672&gclid=CjwKCAjw47eFBhA9EiwAy8kzNMN3BI7rC2_ZJd5Hzh5-6NTzScGoxZNYikkQwJS_9DqB3WJj6CyFrBoCTq8QAvD_BwE)
+To create and edit image work
+\
+[Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html?mv=search&mv=search&sdid=HCS3XL5Q&ef_id=CjwKCAjwtdeFBhBAEiwAKOIy58GJx_Emdxp1nDTwlZOTqMRYZRn3Dn9m1iMOwd6gAFrKq8F3tONlPxoClkEQAvD_BwE:G:s&s_kwcid=AL!3085!3!492471633964!e!!g!!photoshop!9753976727!99414617483&gclid=CjwKCAjwtdeFBhBAEiwAKOIy58GJx_Emdxp1nDTwlZOTqMRYZRn3Dn9m1iMOwd6gAFrKq8F3tONlPxoClkEQAvD_BwE)
+To Create and edit image work
+\
+[Gitpod](https://www.gitpod.io/)
+Dev Environment using GIT to commit changes to Github
+\
+[Github](https://Github.com)
+GithHub is the hosting site used to store the source code for the Website and Git Pages is used for the deployment of the live site.
 
 ---------------------------------------------------------------------------------------------------------------------
