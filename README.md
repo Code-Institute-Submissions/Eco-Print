@@ -26,12 +26,13 @@ The target audience for this product is users looking to purchase leaflets and o
 
 ### Returning Customer Goals
 
-- To order products online.
+- To view and order products online.
 - To contact the organisation so they can request more information.
 
 ### Frequent Visitor Goals
 
 - To order/topup on products.
+- To check new products.
 - To check to see if there are any new services offered.
 
 
@@ -256,7 +257,7 @@ Forks are used to either propose changes to someone else's project or to use som
 ## -Credits-
 
 ### -Content-
-The content of this software was created by Clayton File based on ownn thoughts and ideas.
+The content of this software was created by Clayton File based on own thoughts and ideas.
 
 [Section 3 Facts](https://www.shredit.co.uk/en-gb/blog/sustainability/how-does-recycling-paper-help-the-environment#:~:text=Recycling%20paper%20helps%20to%20reduce,smog%20(and%20ill%20health).)
 
