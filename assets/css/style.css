@@ -572,16 +572,28 @@ a:hover {
         height: 500px !important;
     }
 
+    #upper-section-two {
+        height: 600px;
+    }
+
+    #how-it-works {
+        height: 575px;
+    }
+
+    .how-h3 {
+        margin-top: 30px;
+    }
+
     #how-left {
-        height: 315px;
+        height: 275px;
     }
 
     #how-center {
-        height: 315px;
+        height: 275px;
     }
 
     #how-right {
-        height: 315px;
+        height: 275px;
     }
 
     #size-img {
