@@ -1,7 +1,7 @@
 # Eco Print
 The planets leading eco freindly supplier with guaranteed next day printing in the UK.
 
-Take a Look [Here](https://techcentreuk.github.io/Printing-Company/index.html)
+Take a Look [Here](https://techcentreuk.github.io/Eco-Print/)
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -225,7 +225,7 @@ git push - This command is used to push all committed changes to the GitHub repo
 
 5. Click Save and the page will automatically refresh.
 
-6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section. Alternatively click this [Link](https://techcentreuk.github.io/Printing-Company/)
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section. Alternatively click this [Link](https://techcentreuk.github.io/Eco-Print/)
 
 ### Forking
 Forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. - This is the definition from Github Docs.
